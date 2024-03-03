@@ -1,7 +1,7 @@
 # Multi-dimensional containers with C++
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)](https://github.com/GeorgePimpleton/modules_testing/)
 ### Why this github repository exists
-Because using modules can be fraught with frusttration if not properly set up.  Header use and the potential drawbacks have been known for years.  Modules were created to remove the problems with headers, though creating other problems if not properly used.
+To show my "take" on how to use MD containers, specifically std::vectors.
 
 ### Compiler used
 I use Visual Studio 2022 (Community) to create and test the code, setting the C++ language standard to /std:c++latest (C++23 features).  This works even for pre-C++20 code.
